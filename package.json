@@ -1,0 +1,16 @@
+{
+  "name": "components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^17.0.3",
+    "chalk": "^4.1.0",
+    "handlebars": "^4.7.7",
+    "inquirer": "^8.0.0",
+    "mkdirp": "^1.0.4"
+  },
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}

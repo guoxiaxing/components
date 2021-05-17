@@ -1,0 +1,12 @@
+---
+title: {{fileName}}
+---
+
+import { CodeBox } from '../../components/code-box.tsx';
+import { Demo } from './demo.tsx';
+
+## Demo
+
+<CodeBox title="Demo" code={import('./demo.tsx?raw')}>
+  <Demo></Demo>
+</CodeBox>

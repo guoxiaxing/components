@@ -1,0 +1,10 @@
+import React from 'react';
+import { {{componentName}} } from 'componentsLibName';
+
+export const Demo = () => {
+  return (
+    <>
+     <{{componentName}} />
+    </>
+  );
+};

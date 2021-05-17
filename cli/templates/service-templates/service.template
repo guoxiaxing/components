@@ -1,0 +1,6 @@
+import { httpClient } from '../utils';
+
+const baseUrl = '';
+
+export const {{serviceName}}Service = {
+}
